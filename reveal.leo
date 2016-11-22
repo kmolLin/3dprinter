@@ -500,7 +500,7 @@ NOTEBOOK_DIR = 'notebook'
 <t tx="leo.20161122154510.3">&lt;hr&gt;</t>
 <t tx="leo.20161122154510.4">&lt;p class="article"&gt;
 &lt;/p&gt;</t>
-<t tx="leo.20161122154510.5">&lt;img src="g2/solidwork.png" width="35%"&gt;
+<t tx="leo.20161122154510.5">&lt;img src="g2/solidwork.PNG" width="35%"&gt;
 </t>
 <t tx="leo.20161122155206.1">&lt;section&gt;
 @others
@@ -524,7 +524,7 @@ NOTEBOOK_DIR = 'notebook'
 &lt;br&gt;&lt;br&gt;
 
 &lt;/p&gt;</t>
-<t tx="leo.20161122155353.5">&lt;img src="g2/coreXY.JPG" width="55%"&gt;
+<t tx="leo.20161122155353.5">&lt;img src="g2/coreXY.jpg" width="55%"&gt;
 </t>
 <t tx="leo.20161122155544.1">&lt;section&gt;
 &lt;p&gt;
