@@ -216,7 +216,7 @@ Summary: 導入 notebook 內容
 
 
 </t>
-<t tx="544.20161120172746.1">&lt;img src="g2/title.jpg" width="55%"&gt;
+<t tx="544.20161120172746.1">&lt;img src="g2/title.JPG" width="55%"&gt;
 </t>
 <t tx="544.20161120181552.1">&lt;img src="http://3dware.ir/en/images/FDM2.jpg" width="40%"&gt;
 </t>
