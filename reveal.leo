@@ -90,38 +90,38 @@
 <v t="leo.20161122154510.4"><vh>p</vh></v>
 <v t="leo.20161122154510.5"><vh>img</vh></v>
 </v>
-<v t="leo.20161122155206.1"><vh>delta</vh>
+<v t="leo.20161122155206.1" a="E"><vh>delta</vh>
 <v t="leo.20161122155206.2"><vh>h3</vh></v>
 <v t="leo.20161122155206.3"><vh>hr</vh></v>
 <v t="leo.20161122155206.4"><vh>p</vh></v>
 <v t="leo.20161122155206.5"><vh>img</vh></v>
 </v>
-<v t="leo.20161122155353.1"><vh>XYZ</vh>
+<v t="leo.20161122155353.1" a="E"><vh>XYZ</vh>
 <v t="leo.20161122155353.2"><vh>h3</vh></v>
 <v t="leo.20161122155353.3"><vh>hr</vh></v>
 <v t="leo.20161122155353.4"><vh>p</vh></v>
 <v t="leo.20161122155353.5"><vh>img</vh></v>
 </v>
-<v t="leo.20161122164951.1"><vh>atom介紹</vh>
+<v t="leo.20161122164951.1" a="E"><vh>atom介紹</vh>
 <v t="leo.20161122165012.1"><vh>h3</vh></v>
 <v t="leo.20161122165124.1"><vh>hr</vh></v>
 <v t="leo.20161122165150.1"><vh>p</vh></v>
 </v>
 </v>
 <v t="leo.20161122155544.1" a="E"><vh>開源</vh>
-<v t="leo.20161122155544.2"><vh>Reprap</vh>
+<v t="leo.20161122155544.2" a="E"><vh>Reprap</vh>
 <v t="leo.20161122155544.3"><vh>h3</vh></v>
 <v t="leo.20161122155544.4"><vh>hr</vh></v>
 <v t="leo.20161122155544.5"><vh>p</vh></v>
 <v t="leo.20161122155544.6"><vh>img</vh></v>
 </v>
-<v t="leo.20161122155544.7"><vh>開源</vh>
+<v t="leo.20161122155544.7" a="E"><vh>開源</vh>
 <v t="leo.20161122155544.8"><vh>h3</vh></v>
 <v t="leo.20161122155544.9"><vh>hr</vh></v>
 <v t="leo.20161122155544.10"><vh>p</vh></v>
 <v t="leo.20161122155544.11"><vh>img</vh></v>
 </v>
-<v t="leo.20161122164146.1"><vh>開源軟體</vh>
+<v t="leo.20161122164146.1" a="E"><vh>開源軟體</vh>
 <v t="leo.20161122164146.2"><vh>h3</vh></v>
 <v t="leo.20161122164146.3"><vh>hr</vh></v>
 <v t="leo.20161122164146.4"><vh>p</vh>
@@ -235,7 +235,7 @@ Summary: 導入 notebook 內容
 <t tx="544.20161120203024.2">&lt;h3&gt;成品&lt;/h3&gt;</t>
 <t tx="544.20161120203024.3">&lt;hr&gt;</t>
 <t tx="544.20161120203024.4">
-&lt;img src="g2/final.jpg" width="40%"&gt;
+&lt;img src="g2/final.JPG" width="40%"&gt;
 </t>
 <t tx="ahshoe.20161116162923.1">&lt;h3&gt;3D列印是什麼&lt;/h3&gt;</t>
 <t tx="ahshoe.20161116162940.1">&lt;section&gt;
@@ -512,7 +512,7 @@ NOTEBOOK_DIR = 'notebook'
 &lt;br&gt;&lt;br&gt;
 
 &lt;/p&gt;</t>
-<t tx="leo.20161122155206.5">&lt;img src="g2/IMG_0042.jpg" width="35%"&gt;
+<t tx="leo.20161122155206.5">&lt;img src="g2/IMG_0042.JPG" width="35%"&gt;
 </t>
 <t tx="leo.20161122155353.1">&lt;section&gt;
 @others
@@ -524,7 +524,7 @@ NOTEBOOK_DIR = 'notebook'
 &lt;br&gt;&lt;br&gt;
 
 &lt;/p&gt;</t>
-<t tx="leo.20161122155353.5">&lt;img src="g2/coreXY.jpg" width="55%"&gt;
+<t tx="leo.20161122155353.5">&lt;img src="g2/coreXY.JPG" width="55%"&gt;
 </t>
 <t tx="leo.20161122155544.1">&lt;section&gt;
 &lt;p&gt;
