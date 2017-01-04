@@ -621,7 +621,7 @@ Javascript 是目前網頁語言的主流
 <t tx="roger.20170104095923.2">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="roger.20170104095923.3">&lt;h3&gt;實體&lt;/h3&gt;</t>
+<t tx="roger.20170104095923.3">&lt;h3&gt;實體1&lt;/h3&gt;</t>
 <t tx="roger.20170104095923.4">&lt;hr&gt;</t>
 <t tx="roger.20170104095923.5">&lt;p class="article"&gt;
 
