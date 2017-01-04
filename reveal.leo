@@ -43,102 +43,120 @@
 <v t="ahshoe.20161116170054.1"><vh>hr</vh></v>
 <v t="ahshoe.20161116163706.1"><vh>組員</vh></v>
 </v>
-<v t="ahshoe.20161116164356.1" a="E"><vh>目錄(#contents)</vh>
+<v t="ahshoe.20161116164356.1"><vh>目錄(#contents)</vh>
 <v t="ahshoe.20161116164356.3"><vh>h3</vh></v>
 <v t="ahshoe.20161116170302.1"><vh>hr</vh></v>
-<v t="ahshoe.20161116164442.1" a="E"><vh>ol</vh>
-<v t="ahshoe.20161116164501.1"><vh>3D列印是什麼</vh></v>
-<v t="ahshoe.20161116164540.1"><vh>3D列印機</vh></v>
-<v t="leo.20161122150033.1"><vh>開源</vh></v>
+<v t="ahshoe.20161116164442.1"><vh>ol</vh>
+<v t="ahshoe.20161116164501.1"><vh>firebase</vh></v>
+<v t="ahshoe.20161116164540.1"><vh>ionic</vh></v>
+<v t="leo.20161122150033.1"><vh>javascript</vh></v>
+<v t="roger.20170104093250.1"><vh>實體展示</vh></v>
 </v>
 </v>
-<v t="40323250.20151124123610.8" a="E"><vh>Vrep(#vrep)</vh>
-<v t="40323250.20151124123610.9" a="E"><vh>3D列印是什麼</vh>
+<v t="40323250.20151124123610.8"><vh>Vrep(#vrep)</vh>
+<v t="40323250.20151124123610.9"><vh>firebase</vh>
 <v t="ahshoe.20161116162923.1"><vh>h3</vh></v>
 <v t="ahshoe.20161116210624.1"><vh>hr</vh></v>
 <v t="ahshoe.20161116210634.1"><vh>p</vh></v>
 <v t="544.20161120172746.1"><vh>img</vh></v>
 </v>
-<v t="ahshoe.20161116162940.1"><vh>3D列印種類</vh>
+<v t="ahshoe.20161116162940.1"><vh>database</vh>
 <v t="ahshoe.20161116162940.2"><vh>h3</vh></v>
 <v t="ahshoe.20161116210847.1"><vh>hr</vh></v>
-<v t="leo.20161122152233.1" a="E"><vh>p</vh>
-<v t="leo.20161122151751.1"><vh>ol</vh>
-<v t="leo.20161122151751.2"><vh>FDM</vh></v>
-<v t="leo.20161122151751.3"><vh>SLA</vh></v>
-<v t="leo.20161122151751.4"><vh>EBF</vh></v>
-</v>
-</v>
+<v t="leo.20161122152233.1"><vh>p</vh></v>
 <v t="544.20161120181552.1"><vh>img</vh></v>
 </v>
-<v t="544.20161120201425.1" a="E"><vh>縮時</vh>
+<v t="544.20161120201425.1"><vh>rule</vh>
 <v t="544.20161120201425.2"><vh>h3</vh></v>
 <v t="544.20161120201425.3"><vh>hr</vh></v>
 <v t="544.20161120201425.4"><vh>p</vh></v>
 <v t="544.20161120201425.5"><vh>vedio</vh></v>
 </v>
-<v t="544.20161120203024.1" a="E"><vh>結果</vh>
+<v t="544.20161120203024.1"><vh>auth</vh>
 <v t="544.20161120203024.2"><vh>h3</vh></v>
 <v t="544.20161120203024.3"><vh>hr</vh></v>
 <v t="544.20161120203024.4"><vh>p</vh></v>
+<v t="roger.20170104101558.1"><vh>img</vh></v>
 </v>
 </v>
-<v t="40323250.20151124123610.14" a="E"><vh>3D列印機</vh>
-<v t="leo.20161122154510.1" a="E"><vh>3D列印是什麼</vh>
+<v t="40323250.20151124123610.14"><vh>ionic</vh>
+<v t="leo.20161122154510.1"><vh>ionic</vh>
 <v t="leo.20161122154510.2"><vh>h3</vh></v>
 <v t="leo.20161122154510.3"><vh>hr</vh></v>
 <v t="leo.20161122154510.4"><vh>p</vh></v>
 <v t="leo.20161122154510.5"><vh>img</vh></v>
 </v>
-<v t="leo.20161122155206.1" a="E"><vh>delta</vh>
+<v t="leo.20161122155206.1"><vh>gui</vh>
 <v t="leo.20161122155206.2"><vh>h3</vh></v>
 <v t="leo.20161122155206.3"><vh>hr</vh></v>
 <v t="leo.20161122155206.4"><vh>p</vh></v>
 <v t="leo.20161122155206.5"><vh>img</vh></v>
 </v>
-<v t="leo.20161122155353.1" a="E"><vh>XYZ</vh>
+<v t="leo.20161122155353.1"><vh>ionic_serve</vh>
 <v t="leo.20161122155353.2"><vh>h3</vh></v>
 <v t="leo.20161122155353.3"><vh>hr</vh></v>
 <v t="leo.20161122155353.4"><vh>p</vh></v>
 <v t="leo.20161122155353.5"><vh>img</vh></v>
 </v>
-<v t="leo.20161122164951.1" a="E"><vh>atom介紹</vh>
-<v t="leo.20161122165012.1"><vh>h3</vh></v>
-<v t="leo.20161122165124.1"><vh>hr</vh></v>
-<v t="leo.20161122165150.1"><vh>p</vh></v>
 </v>
-</v>
-<v t="leo.20161122155544.1" a="E"><vh>開源</vh>
-<v t="leo.20161122155544.2" a="E"><vh>Reprap</vh>
+<v t="leo.20161122155544.1"><vh>協同git</vh>
+<v t="leo.20161122155544.2"><vh>Github</vh>
 <v t="leo.20161122155544.3"><vh>h3</vh></v>
 <v t="leo.20161122155544.4"><vh>hr</vh></v>
 <v t="leo.20161122155544.5"><vh>p</vh></v>
 <v t="leo.20161122155544.6"><vh>img</vh></v>
 </v>
-<v t="leo.20161122155544.7" a="E"><vh>開源</vh>
+<v t="leo.20161122155544.7"><vh>開源</vh>
 <v t="leo.20161122155544.8"><vh>h3</vh></v>
 <v t="leo.20161122155544.9"><vh>hr</vh></v>
 <v t="leo.20161122155544.10"><vh>p</vh></v>
 <v t="leo.20161122155544.11"><vh>img</vh></v>
 </v>
-<v t="leo.20161122164146.1" a="E"><vh>開源軟體</vh>
-<v t="leo.20161122164146.2"><vh>h3</vh></v>
-<v t="leo.20161122164146.3"><vh>hr</vh></v>
-<v t="leo.20161122164146.4"><vh>p</vh>
-<v t="leo.20161122164146.5" a="E"><vh>ol</vh>
-<v t="leo.20161122164146.6"><vh>7Z</vh></v>
-<v t="leo.20161122164146.7"><vh>Blender</vh></v>
-<v t="leo.20161122164146.8"><vh>android</vh></v>
+<v t="roger.20170104102629.1"><vh>github</vh>
+<v t="roger.20170104102629.2"><vh>h3</vh></v>
+<v t="roger.20170104102629.3"><vh>hr</vh></v>
+<v t="roger.20170104102629.4"><vh>p</vh></v>
+<v t="roger.20170104102629.5"><vh>img</vh></v>
 </v>
 </v>
-<v t="leo.20161122164146.9"><vh>img</vh></v>
-</v>
-</v>
-<v t="leo.20161122164617.1" a="E"><vh>報告結束</vh>
-<v t="leo.20161122164617.2" a="E"><vh>3D列印是什麼</vh>
+<v t="leo.20161122164617.1"><vh>js</vh>
+<v t="leo.20161122164617.2"><vh>javascript</vh>
 <v t="leo.20161122164617.3"><vh>h3</vh></v>
 <v t="leo.20161122164617.4"><vh>hr</vh></v>
 <v t="leo.20161122164617.5"><vh>p</vh></v>
+<v t="roger.20170104095520.1"><vh>img</vh></v>
+</v>
+<v t="roger.20170104095607.1"><vh>ionic_chose</vh>
+<v t="roger.20170104095607.2"><vh>h3</vh></v>
+<v t="roger.20170104095607.3"><vh>hr</vh></v>
+<v t="roger.20170104095607.4"><vh>p</vh></v>
+<v t="roger.20170104095607.5"><vh>img</vh></v>
+</v>
+<v t="roger.20170104095748.1"><vh>ionic_use</vh>
+<v t="roger.20170104095748.2"><vh>h3</vh></v>
+<v t="roger.20170104095748.3"><vh>hr</vh></v>
+<v t="roger.20170104095748.4"><vh>p</vh></v>
+<v t="roger.20170104095748.5"><vh>img</vh></v>
+</v>
+</v>
+<v t="roger.20170104095923.1" a="E"><vh>實體展示</vh>
+<v t="roger.20170104095923.2" a="E"><vh>實體1</vh>
+<v t="roger.20170104095923.3"><vh>h3</vh></v>
+<v t="roger.20170104095923.4"><vh>hr</vh></v>
+<v t="roger.20170104095923.5"><vh>p</vh></v>
+<v t="roger.20170104095923.6"><vh>img</vh></v>
+</v>
+<v t="roger.20170104095923.7" a="E"><vh>ionic_chose</vh>
+<v t="roger.20170104095923.8"><vh>h3</vh></v>
+<v t="roger.20170104095923.9"><vh>hr</vh></v>
+<v t="roger.20170104095923.10"><vh>p</vh></v>
+<v t="roger.20170104095923.11"><vh>img</vh></v>
+</v>
+<v t="roger.20170104095923.12" a="E"><vh>ionic_use</vh>
+<v t="roger.20170104095923.13"><vh>h3</vh></v>
+<v t="roger.20170104095923.14"><vh>hr</vh></v>
+<v t="roger.20170104095923.15"><vh>p</vh></v>
+<v t="roger.20170104095923.16"><vh>img</vh></v>
 </v>
 </v>
 </v>
@@ -216,34 +234,34 @@ Summary: 導入 notebook 內容
 
 
 </t>
-<t tx="544.20161120172746.1">&lt;img src="g2/title.JPG" width="55%"&gt;
+<t tx="544.20161120172746.1">&lt;img src="https://1.bp.blogspot.com/-YIfQT6q8ZM4/Vzyq5z1B8HI/AAAAAAAAAAc/UmWSSMLKtKgtH7CACElUp12zXkrPK5UoACLcB/s1600/image00.png" width="55%"&gt;
 </t>
-<t tx="544.20161120181552.1">&lt;img src="http://3dware.ir/en/images/FDM2.jpg" width="40%"&gt;
+<t tx="544.20161120181552.1">&lt;img src="http://i.imgur.com/efAXh1F.png" width="80%"&gt;
 </t>
 <t tx="544.20161120201425.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="544.20161120201425.2">&lt;h3&gt;縮時3D列印&lt;/h3&gt;</t>
+<t tx="544.20161120201425.2">&lt;h3&gt;rule&lt;/h3&gt;</t>
 <t tx="544.20161120201425.3">&lt;hr&gt;</t>
 <t tx="544.20161120201425.4">&lt;p class="article"&gt;
 
 &lt;/p&gt;</t>
-<t tx="544.20161120201425.5">&lt;iframe width="1024" height="576" src="https://www.youtube.com/embed/4sK0pn37HAQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="544.20161120201425.5">&lt;img src="http://i.imgur.com/cKLu6a3.png" width="80%"&gt;</t>
 <t tx="544.20161120203024.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="544.20161120203024.2">&lt;h3&gt;成品&lt;/h3&gt;</t>
+<t tx="544.20161120203024.2">&lt;h3&gt;auth&lt;/h3&gt;</t>
 <t tx="544.20161120203024.3">&lt;hr&gt;</t>
 <t tx="544.20161120203024.4">
-&lt;img src="g2/final.JPG" width="40%"&gt;
+
 </t>
-<t tx="ahshoe.20161116162923.1">&lt;h3&gt;3D列印是什麼&lt;/h3&gt;</t>
+<t tx="ahshoe.20161116162923.1">&lt;h3&gt;firebase&lt;/h3&gt;</t>
 <t tx="ahshoe.20161116162940.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="ahshoe.20161116162940.2">&lt;h3&gt;3D列印種類&lt;/h3&gt;</t>
-<t tx="ahshoe.20161116163650.1">&lt;h3&gt;3D列印介紹&lt;/h3&gt;</t>
-<t tx="ahshoe.20161116163706.1">&lt;h4 style="font-weight:bold"&gt;林祐生&lt;/h4&gt;
+<t tx="ahshoe.20161116162940.2">&lt;h3&gt;database&lt;/h3&gt;</t>
+<t tx="ahshoe.20161116163650.1">&lt;h3&gt;Chat App&lt;/h3&gt;</t>
+<t tx="ahshoe.20161116163706.1">&lt;h4 style="font-weight:bold"&gt;40323230張元 &lt;br&gt;&lt;/br&gt;40323123林祐生&lt;/h4&gt;
 
 </t>
 <t tx="ahshoe.20161116164356.1">&lt;section id="contents"&gt;
@@ -256,11 +274,11 @@ Summary: 導入 notebook 內容
 @others
 &lt;/ol&gt;</t>
 <t tx="ahshoe.20161116164501.1">&lt;li&gt;
-&lt;h4&gt;3D列印是什麼&lt;/h4&gt;
+&lt;h4&gt;firebase&lt;/h4&gt;
 &lt;!-- &lt;p class="article"&gt;Vrep&lt;/p&gt; --&gt;
 &lt;/li&gt;</t>
 <t tx="ahshoe.20161116164540.1">&lt;li&gt;
-&lt;h4&gt;3D列印機&lt;/h4&gt;
+&lt;h4&gt;ionic&lt;/h4&gt;
 &lt;!--  &lt;p class="article"&gt;Python Solvespace&lt;/p&gt; --&gt;
 &lt;/li&gt;</t>
 <t tx="ahshoe.20161116165231.1">&lt;head&gt;
@@ -314,7 +332,7 @@ Reveal.initialize({
 }</t>
 <t tx="ahshoe.20161116210624.1">&lt;hr&gt;</t>
 <t tx="ahshoe.20161116210634.1">&lt;p class="article"&gt;
-3D列印是源自於 1980年就已經出現的技術，當時是使用光固化的方式進行成型，但是因為後期的大量自動化的出現，衝壓、鑄造等技術突破，並沒有特別突出的地方。
+
 &lt;br&gt;&lt;br&gt;
 
 &lt;/p&gt;</t>
@@ -472,22 +490,7 @@ NOTEBOOK_DIR = 'notebook'
 
 </t>
 <t tx="leo.20161122150033.1">&lt;li&gt;
-&lt;h4&gt;OpenSource&lt;/h4&gt;
-&lt;!--  &lt;p class="article"&gt;Python Solvespace&lt;/p&gt; --&gt;
-&lt;/li&gt;</t>
-<t tx="leo.20161122151751.1">&lt;ol&gt;
-@others
-&lt;/ol&gt;</t>
-<t tx="leo.20161122151751.2">&lt;li&gt;
-&lt;h4&gt;FDM&lt;/h4&gt;
-&lt;!-- &lt;p class="article"&gt;Vrep&lt;/p&gt; --&gt;
-&lt;/li&gt;</t>
-<t tx="leo.20161122151751.3">&lt;li&gt;
-&lt;h4&gt;SLA&lt;/h4&gt;
-&lt;!--  &lt;p class="article"&gt;Python Solvespace&lt;/p&gt; --&gt;
-&lt;/li&gt;</t>
-<t tx="leo.20161122151751.4">&lt;li&gt;
-&lt;h4&gt;EBF&lt;/h4&gt;
+&lt;h4&gt;javascript  &lt;/h4&gt;
 &lt;!--  &lt;p class="article"&gt;Python Solvespace&lt;/p&gt; --&gt;
 &lt;/li&gt;</t>
 <t tx="leo.20161122152233.1">&lt;p class="article"&gt;
@@ -496,35 +499,32 @@ NOTEBOOK_DIR = 'notebook'
 <t tx="leo.20161122154510.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20161122154510.2">&lt;h3&gt;3D列印機介紹&lt;/h3&gt;</t>
+<t tx="leo.20161122154510.2">&lt;h3&gt;ionic&lt;/h3&gt;</t>
 <t tx="leo.20161122154510.3">&lt;hr&gt;</t>
 <t tx="leo.20161122154510.4">&lt;p class="article"&gt;
 &lt;/p&gt;</t>
-<t tx="leo.20161122154510.5">&lt;img src="g2/solidwork.PNG" width="35%"&gt;
+<t tx="leo.20161122154510.5">&lt;img src="https://ionicframework.com/img/ionic-meta.jpg" width="50%"&gt;
 </t>
 <t tx="leo.20161122155206.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20161122155206.2">&lt;h3&gt;Delta type&lt;/h3&gt;</t>
+<t tx="leo.20161122155206.2">&lt;h3&gt;gui&lt;/h3&gt;</t>
 <t tx="leo.20161122155206.3">&lt;hr&gt;</t>
 <t tx="leo.20161122155206.4">&lt;p class="article"&gt;
 
-&lt;br&gt;&lt;br&gt;
-
 &lt;/p&gt;</t>
-<t tx="leo.20161122155206.5">&lt;img src="g2/IMG_0042.JPG" width="35%"&gt;
+<t tx="leo.20161122155206.5">&lt;img src="http://i.imgur.com/QzcHwbd.jpg" width="80%"&gt;
 </t>
 <t tx="leo.20161122155353.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20161122155353.2">&lt;h3&gt;Xyz type&lt;/h3&gt;</t>
+<t tx="leo.20161122155353.2">&lt;h3&gt;ionic serve&lt;/h3&gt;</t>
 <t tx="leo.20161122155353.3">&lt;hr&gt;</t>
 <t tx="leo.20161122155353.4">&lt;p class="article"&gt;
 
-&lt;br&gt;&lt;br&gt;
 
 &lt;/p&gt;</t>
-<t tx="leo.20161122155353.5">&lt;img src="g2/coreXY.jpg" width="55%"&gt;
+<t tx="leo.20161122155353.5">&lt;img src="http://i.imgur.com/L8IfTcG.png" width="70%"&gt;
 </t>
 <t tx="leo.20161122155544.1">&lt;section&gt;
 &lt;p&gt;
@@ -532,9 +532,10 @@ NOTEBOOK_DIR = 'notebook'
 &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20161122155544.10">&lt;p class="article"&gt;
-描述了一種在產品的出品和開發中提供最終源材料的做法。在這個詞廣泛使用前，開發者和生產者使用很多詞去描述這個概念；開放源代碼在網際網路上獲得廣泛使用，參加者需要大量更新電腦原始碼。開放源代碼使得生產模組、通訊管道、互動社群獲得改善。
-&lt;br&gt;&lt;br&gt;
+底下式我們再github開發的流程和commit
 
+&lt;a href="https://github.com/40323230/mde-chat-client"&gt;github&lt;/a&gt; 
+&lt;br&gt;&lt;br&gt;
 
 &lt;/p&gt;</t>
 <t tx="leo.20161122155544.11">&lt;!-- &lt;img src="g2/IMG_0042.jpg" width="35%"&gt; --&gt;
@@ -542,45 +543,20 @@ NOTEBOOK_DIR = 'notebook'
 <t tx="leo.20161122155544.2">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20161122155544.3">&lt;h3&gt;Reprap&lt;/h3&gt;</t>
+<t tx="leo.20161122155544.3">&lt;h3&gt;Github&lt;/h3&gt;</t>
 <t tx="leo.20161122155544.4">&lt;hr&gt;</t>
 <t tx="leo.20161122155544.5">&lt;p class="article"&gt;
-RepRap是一種3D列印機的原型，他可以自我複製大部份的零件，少部分的機械零件需要購買，這套原型機從硬體到韌體都是開源的，可以在網路上找到所有的資料，並進行使用
+對團隊來說，額外再新增一個伺服器進行版本控制，又是一個非常麻煩的工具，因此許多人都不會想要使用git，但是再擁有版本控制著程式，對於程式碼來說非常重要，因為可以多方比較不一樣的解答和方法，再團隊開發中亦是如此。
 &lt;br&gt;&lt;br&gt;
 
 &lt;/p&gt;</t>
-<t tx="leo.20161122155544.6">&lt;img src="http://3dprint.com/wp-content/uploads/2014/12/print3.jpg" width="35%"&gt;
+<t tx="leo.20161122155544.6">&lt;img src="https://kanbanize.com/blog/wp-content/uploads/2014/11/GitHub.jpg" width="45%"&gt;
 </t>
 <t tx="leo.20161122155544.7">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20161122155544.8">&lt;h3&gt;OpenSource&lt;/h3&gt;</t>
+<t tx="leo.20161122155544.8">&lt;h3&gt;Github&lt;/h3&gt;</t>
 <t tx="leo.20161122155544.9">&lt;hr&gt;</t>
-<t tx="leo.20161122164146.1">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="leo.20161122164146.2">&lt;h3&gt;3D列印種類&lt;/h3&gt;</t>
-<t tx="leo.20161122164146.3">&lt;hr&gt;</t>
-<t tx="leo.20161122164146.4">&lt;p class="article"&gt;
-@others
-&lt;/p&gt;</t>
-<t tx="leo.20161122164146.5">&lt;ol&gt;
-@others
-&lt;/ol&gt;</t>
-<t tx="leo.20161122164146.6">&lt;li&gt;
-&lt;h4&gt;7z&lt;/h4&gt;
-&lt;!-- &lt;p class="article"&gt;Vrep&lt;/p&gt; --&gt;
-&lt;/li&gt;</t>
-<t tx="leo.20161122164146.7">&lt;li&gt;
-&lt;h4&gt;blender&lt;/h4&gt;
-&lt;!--  &lt;p class="article"&gt;Python Solvespace&lt;/p&gt; --&gt;
-&lt;/li&gt;</t>
-<t tx="leo.20161122164146.8">&lt;li&gt;
-&lt;h4&gt;android&lt;/h4&gt;
-&lt;!--  &lt;p class="article"&gt;Python Solvespace&lt;/p&gt; --&gt;
-&lt;/li&gt;</t>
-<t tx="leo.20161122164146.9">&lt;img src="g2/opensource.png" width="40%"&gt;
-</t>
 <t tx="leo.20161122164617.1">&lt;section&gt;
 &lt;p&gt;
 @others
@@ -589,21 +565,85 @@ RepRap是一種3D列印機的原型，他可以自我複製大部份的零件，
 <t tx="leo.20161122164617.2">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20161122164617.3">&lt;h3&gt;感謝聆聽&lt;/h3&gt;</t>
+<t tx="leo.20161122164617.3">&lt;h3&gt;javascript&lt;/h3&gt;</t>
 <t tx="leo.20161122164617.4">&lt;hr&gt;</t>
 <t tx="leo.20161122164617.5">&lt;p class="article"&gt;
-
+Javascript 是目前網頁語言的主流
 &lt;br&gt;&lt;br&gt;
 
 &lt;/p&gt;</t>
-<t tx="leo.20161122164951.1">&lt;section&gt;
+<t tx="roger.20170104093250.1">&lt;li&gt;
+&lt;h4&gt;介面展示&lt;/h4&gt;
+&lt;!--  &lt;p class="article"&gt;Python Solvespace&lt;/p&gt; --&gt;
+&lt;/li&gt;</t>
+<t tx="roger.20170104095520.1">&lt;img src="https://3.bp.blogspot.com/-lQZ6oX19ji4/VVBQS7XZ2sI/AAAAAAAAZdc/iubbjow1ZU4/s320/js.png" width="50%" style=""&gt;
+</t>
+<t tx="roger.20170104095607.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20161122165012.1">&lt;h3&gt;形象影片&lt;/h3&gt;</t>
-<t tx="leo.20161122165124.1">&lt;hr&gt;</t>
-<t tx="leo.20161122165150.1">&lt;p class="article"&gt;
-&lt;br&gt;
-&lt;iframe width="1024" height="576" src="https://www.youtube.com/embed/hT_TJLcnkeE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+<t tx="roger.20170104095607.2">&lt;h3&gt;ionic use&lt;/h3&gt;</t>
+<t tx="roger.20170104095607.3">&lt;hr&gt;</t>
+<t tx="roger.20170104095607.4">&lt;p class="article"&gt;
+
 &lt;/p&gt;</t>
+<t tx="roger.20170104095607.5">&lt;img src="http://img.scoop.it/oD6tBcMkbrw9aJ1F-GzgHzl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9" width="80%"&gt;
+</t>
+<t tx="roger.20170104095748.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="roger.20170104095748.2">&lt;h3&gt;code&lt;/h3&gt;</t>
+<t tx="roger.20170104095748.3">&lt;hr&gt;</t>
+<t tx="roger.20170104095748.4">&lt;p class="article"&gt;
+
+&lt;/p&gt;</t>
+<t tx="roger.20170104095748.5">&lt;img src="http://i.imgur.com/2BU7wyt.png" width="85%"&gt;
+</t>
+<t tx="roger.20170104095923.1">&lt;section&gt;
+&lt;p&gt;
+@others
+&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="roger.20170104095923.10">&lt;p class="article"&gt;
+
+&lt;/p&gt;</t>
+<t tx="roger.20170104095923.11">&lt;img src="http://i.imgur.com/Q9wbdCD.jpg" width="30%"&gt;
+</t>
+<t tx="roger.20170104095923.12">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="roger.20170104095923.13">&lt;h3&gt;實體3&lt;/h3&gt;</t>
+<t tx="roger.20170104095923.14">&lt;hr&gt;</t>
+<t tx="roger.20170104095923.15">&lt;p class="article"&gt;
+
+&lt;/p&gt;</t>
+<t tx="roger.20170104095923.16">&lt;img src="http://i.imgur.com/AEakLfx.jpg" width="30%"&gt;
+</t>
+<t tx="roger.20170104095923.2">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="roger.20170104095923.3">&lt;h3&gt;實體&lt;/h3&gt;</t>
+<t tx="roger.20170104095923.4">&lt;hr&gt;</t>
+<t tx="roger.20170104095923.5">&lt;p class="article"&gt;
+
+
+&lt;/p&gt;</t>
+<t tx="roger.20170104095923.6">&lt;img src="http://i.imgur.com/aYwOzUs.jpg" width="30%"&gt;
+</t>
+<t tx="roger.20170104095923.7">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="roger.20170104095923.8">&lt;h3&gt;實體2&lt;/h3&gt;</t>
+<t tx="roger.20170104095923.9">&lt;hr&gt;</t>
+<t tx="roger.20170104101558.1">&lt;img src="http://i.imgur.com/AkkSiI4.png" width="80%"&gt;</t>
+<t tx="roger.20170104102629.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="roger.20170104102629.2">&lt;h3&gt;Github&lt;/h3&gt;</t>
+<t tx="roger.20170104102629.3">&lt;hr&gt;</t>
+<t tx="roger.20170104102629.4">&lt;p class="article"&gt;
+
+&lt;/p&gt;</t>
+<t tx="roger.20170104102629.5">&lt;img src="http://i.imgur.com/rMi5ZPS.png" width="80%"&gt;
+</t>
 </tnodes>
 </leo_file>
