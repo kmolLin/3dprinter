@@ -14,7 +14,7 @@
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="amd.20150919102739.1"><vh>專案架構</vh></v>
-<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
+<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>edit publishconf.py</vh></v>
@@ -119,27 +119,60 @@
 <v t="roger.20170104102629.5"><vh>img</vh></v>
 </v>
 </v>
-<v t="leo.20161122164617.1"><vh>js</vh>
-<v t="leo.20161122164617.2"><vh>javascript</vh>
+<v t="leo.20161122164617.1" a="E"><vh>js</vh>
+<v t="leo.20161122164617.2" a="E"><vh>javascript</vh>
 <v t="leo.20161122164617.3"><vh>h3</vh></v>
 <v t="leo.20161122164617.4"><vh>hr</vh></v>
 <v t="leo.20161122164617.5"><vh>p</vh></v>
 <v t="roger.20170104095520.1"><vh>img</vh></v>
 </v>
-<v t="roger.20170104095607.1"><vh>ionic_chose</vh>
+<v t="roger.20170104095607.1"><vh>ionic use</vh>
 <v t="roger.20170104095607.2"><vh>h3</vh></v>
 <v t="roger.20170104095607.3"><vh>hr</vh></v>
 <v t="roger.20170104095607.4"><vh>p</vh></v>
 <v t="roger.20170104095607.5"><vh>img</vh></v>
 </v>
-<v t="roger.20170104095748.1"><vh>ionic_use</vh>
-<v t="roger.20170104095748.2"><vh>h3</vh></v>
-<v t="roger.20170104095748.3"><vh>hr</vh></v>
-<v t="roger.20170104095748.4"><vh>p</vh></v>
-<v t="roger.20170104095748.5"><vh>img</vh></v>
+</v>
+<v t="ahshoe.20170105191145.1" a="E"><vh>Code</vh>
+<v t="ahshoe.20170105193022.1" a="E"><vh>code</vh>
+<v t="ahshoe.20170105193022.2"><vh>h3</vh></v>
+<v t="ahshoe.20170105193022.3"><vh>hr</vh></v>
+<v t="ahshoe.20170105193022.4"><vh>p</vh></v>
+<v t="ahshoe.20170105193022.5"><vh>img</vh></v>
+</v>
+<v t="ahshoe.20170105191145.2"><vh>File tree</vh>
+<v t="ahshoe.20170105191145.3"><vh>h3</vh></v>
+<v t="ahshoe.20170105191145.4"><vh>hr</vh></v>
+<v t="ahshoe.20170105191145.5"><vh>p</vh></v>
+<v t="ahshoe.20170105192107.1"><vh>ol</vh>
+<v t="ahshoe.20170105192859.1"><vh>li</vh></v>
+<v t="ahshoe.20170105192157.1"><vh>li</vh></v>
+<v t="ahshoe.20170105192259.1"><vh>li</vh></v>
+<v t="ahshoe.20170105192341.1"><vh>li</vh></v>
+<v t="ahshoe.20170105192422.1"><vh>li</vh></v>
+<v t="ahshoe.20170105192717.1"><vh>li</vh></v>
 </v>
 </v>
-<v t="roger.20170104095923.1" a="E"><vh>實體展示</vh>
+<v t="ahshoe.20170105193501.1"><vh>login page</vh>
+<v t="ahshoe.20170105193501.2"><vh>h3</vh></v>
+<v t="ahshoe.20170105193501.3"><vh>hr</vh></v>
+<v t="ahshoe.20170105193501.4"><vh>p</vh></v>
+<v t="ahshoe.20170105193501.5"><vh>img</vh></v>
+</v>
+<v t="ahshoe.20170105194249.1"><vh>lobby page</vh>
+<v t="ahshoe.20170105194249.2"><vh>h3</vh></v>
+<v t="ahshoe.20170105194249.3"><vh>hr</vh></v>
+<v t="ahshoe.20170105194249.4"><vh>p</vh></v>
+<v t="ahshoe.20170105194249.5"><vh>img</vh></v>
+</v>
+<v t="ahshoe.20170105194810.1"><vh>room page</vh>
+<v t="ahshoe.20170105194810.2"><vh>h3</vh></v>
+<v t="ahshoe.20170105194810.3"><vh>hr</vh></v>
+<v t="ahshoe.20170105194810.4"><vh>p</vh></v>
+<v t="ahshoe.20170105194810.5"><vh>img</vh></v>
+</v>
+</v>
+<v t="roger.20170104095923.1"><vh>實體展示</vh>
 <v t="roger.20170104095923.2" a="E"><vh>實體1</vh>
 <v t="roger.20170104095923.3"><vh>h3</vh></v>
 <v t="roger.20170104095923.4"><vh>hr</vh></v>
@@ -337,6 +370,88 @@ Reveal.initialize({
 
 &lt;/p&gt;</t>
 <t tx="ahshoe.20161116210847.1">&lt;hr&gt;</t>
+<t tx="ahshoe.20170105191145.1">&lt;section&gt;
+&lt;p&gt;
+@others
+&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="ahshoe.20170105191145.2">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="ahshoe.20170105191145.3">&lt;h3&gt;檔案樹&lt;/h3&gt;</t>
+<t tx="ahshoe.20170105191145.4">&lt;hr&gt;</t>
+<t tx="ahshoe.20170105191145.5">&lt;p class="article"&gt;
+檔案架構
+&lt;/p&gt;</t>
+<t tx="ahshoe.20170105192107.1">&lt;ol&gt;
+@others
+&lt;/ol&gt;</t>
+<t tx="ahshoe.20170105192157.1">&lt;li&gt;
+css：存放自訂外觀。
+&lt;/li&gt;</t>
+<t tx="ahshoe.20170105192259.1">&lt;li&gt;
+img：存放圖片。
+&lt;/li&gt;</t>
+<t tx="ahshoe.20170105192341.1">&lt;li&gt;
+js：存放 javascript 指令。
+&lt;/li&gt;</t>
+<t tx="ahshoe.20170105192422.1">&lt;li&gt;
+lib：存放外部套件，有 Angular Fire、Fire Base、Ionic、Ionic UI Router，使用 bower 安裝和更新。
+&lt;/li&gt;</t>
+<t tx="ahshoe.20170105192717.1">&lt;li&gt;
+templates：存放 html 頁面檔。
+&lt;/li&gt;</t>
+<t tx="ahshoe.20170105192859.1">&lt;li&gt;
+index.html：首頁呼叫分支程式和頁面。
+&lt;/li&gt;</t>
+<t tx="ahshoe.20170105193022.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="ahshoe.20170105193022.2">&lt;h3&gt;原始碼&lt;/h3&gt;</t>
+<t tx="ahshoe.20170105193022.3">&lt;hr&gt;</t>
+<t tx="ahshoe.20170105193022.4">&lt;p class="article"&gt;
+Javascript 是目前網頁語言的主流
+&lt;br&gt;&lt;br&gt;
+
+&lt;/p&gt;</t>
+<t tx="ahshoe.20170105193022.5">&lt;img src="img/atom.jpg" width="70%" style=""&gt;
+&lt;img src="img/tree.jpg" width="15%" style=""&gt;</t>
+<t tx="ahshoe.20170105193501.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="ahshoe.20170105193501.2">&lt;h3&gt;登入畫面&lt;/h3&gt;</t>
+<t tx="ahshoe.20170105193501.3">&lt;hr&gt;</t>
+<t tx="ahshoe.20170105193501.4">&lt;p class="article"&gt;
+登入畫面會在登入成功或是註冊成功時顯示使用者信箱帳號名稱。
+&lt;br&gt;
+這時使用者可以透過側邊欄來切換聊天室。
+&lt;/p&gt;</t>
+<t tx="ahshoe.20170105193501.5">&lt;img src="img/login1.jpg" width="20%" style=""&gt;
+&lt;img src="img/login2.jpg" width="20%" style=""&gt;</t>
+<t tx="ahshoe.20170105194249.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="ahshoe.20170105194249.2">&lt;h3&gt;大廳畫面&lt;/h3&gt;</t>
+<t tx="ahshoe.20170105194249.3">&lt;hr&gt;</t>
+<t tx="ahshoe.20170105194249.4">&lt;p class="article"&gt;
+大廳在未登入時可以查看留言，但是無法發言。
+&lt;br&gt;
+登入後可以在公共區域留言。
+&lt;/p&gt;</t>
+<t tx="ahshoe.20170105194249.5">&lt;img src="img/lobby1.jpg" width="20%" style=""&gt;
+&lt;img src="img/lobby2.jpg" width="20%" style=""&gt;</t>
+<t tx="ahshoe.20170105194810.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="ahshoe.20170105194810.2">&lt;h3&gt;房間畫面&lt;/h3&gt;</t>
+<t tx="ahshoe.20170105194810.3">&lt;hr&gt;</t>
+<t tx="ahshoe.20170105194810.4">&lt;p class="article"&gt;
+一般房間在未登入時不能查看留言，無法發言。
+&lt;br&gt;
+登入後可以在分類的區域留言。
+&lt;/p&gt;</t>
+<t tx="ahshoe.20170105194810.5">&lt;img src="img/room1.jpg" width="20%" style=""&gt;
+&lt;img src="img/room2.jpg" width="20%" style=""&gt;</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -587,16 +702,6 @@ Javascript 是目前網頁語言的主流
 
 &lt;/p&gt;</t>
 <t tx="roger.20170104095607.5">&lt;img src="http://img.scoop.it/oD6tBcMkbrw9aJ1F-GzgHzl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9" width="80%"&gt;
-</t>
-<t tx="roger.20170104095748.1">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="roger.20170104095748.2">&lt;h3&gt;code&lt;/h3&gt;</t>
-<t tx="roger.20170104095748.3">&lt;hr&gt;</t>
-<t tx="roger.20170104095748.4">&lt;p class="article"&gt;
-
-&lt;/p&gt;</t>
-<t tx="roger.20170104095748.5">&lt;img src="http://i.imgur.com/2BU7wyt.png" width="85%"&gt;
 </t>
 <t tx="roger.20170104095923.1">&lt;section&gt;
 &lt;p&gt;
