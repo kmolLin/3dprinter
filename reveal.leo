@@ -137,12 +137,15 @@
 <v t="ahshoe.20170105193022.1" a="E"><vh>code</vh>
 <v t="ahshoe.20170105193022.2"><vh>h3</vh></v>
 <v t="ahshoe.20170105193022.3"><vh>hr</vh></v>
-<v t="ahshoe.20170105193022.4"><vh>p</vh></v>
 <v t="ahshoe.20170105193022.5"><vh>img</vh></v>
 </v>
-<v t="ahshoe.20170105191145.2"><vh>File tree</vh>
+<v t="ahshoe.20170105191145.2" a="E"><vh>File tree</vh>
 <v t="ahshoe.20170105191145.3"><vh>h3</vh></v>
 <v t="ahshoe.20170105191145.4"><vh>hr</vh></v>
+<v t="ahshoe.20170110202939.1" a="E"><vh>div</vh>
+<v t="ahshoe.20170110202944.1"><vh>img</vh></v>
+</v>
+<v t="ahshoe.20170110202904.1"><vh>div</vh>
 <v t="ahshoe.20170105191145.5"><vh>p</vh></v>
 <v t="ahshoe.20170105192107.1"><vh>ol</vh>
 <v t="ahshoe.20170105192859.1"><vh>li</vh></v>
@@ -151,6 +154,7 @@
 <v t="ahshoe.20170105192341.1"><vh>li</vh></v>
 <v t="ahshoe.20170105192422.1"><vh>li</vh></v>
 <v t="ahshoe.20170105192717.1"><vh>li</vh></v>
+</v>
 </v>
 </v>
 <v t="ahshoe.20170105193501.1"><vh>login page</vh>
@@ -170,6 +174,16 @@
 <v t="ahshoe.20170105194810.3"><vh>hr</vh></v>
 <v t="ahshoe.20170105194810.4"><vh>p</vh></v>
 <v t="ahshoe.20170105194810.5"><vh>img</vh></v>
+</v>
+<v t="ahshoe.20170110195427.1" a="E"><vh>js</vh>
+<v t="ahshoe.20170110195427.2"><vh>h3</vh></v>
+<v t="ahshoe.20170110195427.3"><vh>hr</vh></v>
+<v t="ahshoe.20170110195427.4"><vh>p</vh></v>
+<v t="ahshoe.20170110195956.1"><vh>ol</vh>
+<v t="ahshoe.20170110200015.1"><vh>li</vh></v>
+<v t="ahshoe.20170110200538.1"><vh>li</vh></v>
+<v t="ahshoe.20170110201303.1"><vh>li</vh></v>
+</v>
 </v>
 </v>
 <v t="roger.20170104095923.1"><vh>實體展示</vh>
@@ -243,7 +257,7 @@
 &lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="40323250.20151124123610.8">&lt;section id="vrep"&gt;
+<t tx="40323250.20151124123610.8">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
 <t tx="40323250.20151124123610.9">&lt;section&gt;
@@ -346,22 +360,18 @@ Reveal.initialize({
 #contents h4 {
 
 }
-#contents .article {
-  color : #FF0000;
+#code .article {
   font-size : 30px;
   text-align : left;
 }
-/*Vrep*/
-#vrep .article {
-  text-align : left;
+
+#left {
+  float: left;
+  width: 30%;
 }
-/*solvespace*/
-#solvespace .article {
-  text-align : left;
-}
-/*STL*/
-#stl .article {
-  text-align : left;
+
+#content {
+  margin-left: 30%;
 }</t>
 <t tx="ahshoe.20161116210624.1">&lt;hr&gt;</t>
 <t tx="ahshoe.20161116210634.1">&lt;p class="article"&gt;
@@ -370,7 +380,7 @@ Reveal.initialize({
 
 &lt;/p&gt;</t>
 <t tx="ahshoe.20161116210847.1">&lt;hr&gt;</t>
-<t tx="ahshoe.20170105191145.1">&lt;section&gt;
+<t tx="ahshoe.20170105191145.1">&lt;section id="code"&gt;
 &lt;p&gt;
 @others
 &lt;/p&gt;
@@ -409,13 +419,7 @@ index.html：首頁呼叫分支程式和頁面。
 &lt;/section&gt;</t>
 <t tx="ahshoe.20170105193022.2">&lt;h3&gt;原始碼&lt;/h3&gt;</t>
 <t tx="ahshoe.20170105193022.3">&lt;hr&gt;</t>
-<t tx="ahshoe.20170105193022.4">&lt;p class="article"&gt;
-Javascript 是目前網頁語言的主流
-&lt;br&gt;&lt;br&gt;
-
-&lt;/p&gt;</t>
-<t tx="ahshoe.20170105193022.5">&lt;img src="img/atom.jpg" width="70%" style=""&gt;
-&lt;img src="img/tree.jpg" width="15%" style=""&gt;</t>
+<t tx="ahshoe.20170105193022.5">&lt;img src="img/atom.jpg" width="80%" style=""&gt;</t>
 <t tx="ahshoe.20170105193501.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -452,6 +456,33 @@ Javascript 是目前網頁語言的主流
 &lt;/p&gt;</t>
 <t tx="ahshoe.20170105194810.5">&lt;img src="img/room1.jpg" width="20%" style=""&gt;
 &lt;img src="img/room2.jpg" width="20%" style=""&gt;</t>
+<t tx="ahshoe.20170110195427.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="ahshoe.20170110195427.2">&lt;h3&gt;Java Script&lt;/h3&gt;</t>
+<t tx="ahshoe.20170110195427.3">&lt;hr&gt;</t>
+<t tx="ahshoe.20170110195427.4">&lt;p class="article"&gt;
+程式部份：
+&lt;/p&gt;</t>
+<t tx="ahshoe.20170110195956.1">&lt;ol&gt;
+@others
+&lt;/ol&gt;</t>
+<t tx="ahshoe.20170110200015.1">&lt;li&gt;
+app.js：主程式，包含登入、登出、發送、讀取的函式。
+&lt;/li&gt;</t>
+<t tx="ahshoe.20170110200538.1">&lt;li&gt;
+controllers.js：控制器，當進行連接 DOM 時執行函式，不過這裡沒做設定。
+&lt;/li&gt;</t>
+<t tx="ahshoe.20170110201303.1">&lt;li&gt;
+routes.js：路由，編輯並定義每個頁面的位址資訊。
+&lt;/li&gt;</t>
+<t tx="ahshoe.20170110202904.1">&lt;div id="content"&gt;
+@others
+&lt;/div&gt;</t>
+<t tx="ahshoe.20170110202939.1">&lt;div id="left"&gt;
+@others
+&lt;/div&gt;</t>
+<t tx="ahshoe.20170110202944.1">&lt;img src="img/tree.jpg" width="60%" style=""&gt;</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/

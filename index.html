@@ -29,22 +29,18 @@
 #contents h4 {
 
 }
-#contents .article {
-  color : #FF0000;
+#code .article {
   font-size : 30px;
   text-align : left;
 }
-/*Vrep*/
-#vrep .article {
-  text-align : left;
+
+#left {
+  float: left;
+  width: 30%;
 }
-/*solvespace*/
-#solvespace .article {
-  text-align : left;
-}
-/*STL*/
-#stl .article {
-  text-align : left;
+
+#content {
+  margin-left: 30%;
 }
 </style>
 <!-- 將整個投影片包在 "reveal" class 中 -->
@@ -84,7 +80,7 @@
 </ol>
 </section>
 </section>
-<section id="vrep">
+<section>
 <section>
 <h3>firebase</h3>
 <hr>
@@ -202,22 +198,20 @@ Javascript 是目前網頁語言的主流
 </section>
 </p>
 </section>
-<section>
+<section id="code">
 <p>
 <section>
 <h3>原始碼</h3>
 <hr>
-<p class="article">
-Javascript 是目前網頁語言的主流
-<br><br>
-
-</p>
-<img src="img/atom.jpg" width="70%" style="">
-<img src="img/tree.jpg" width="15%" style="">
+<img src="img/atom.jpg" width="80%" style="">
 </section>
 <section>
 <h3>檔案樹</h3>
 <hr>
+<div id="left">
+<img src="img/tree.jpg" width="60%" style="">
+</div>
+<div id="content">
 <p class="article">
 檔案架構
 </p>
@@ -241,6 +235,7 @@ lib：存放外部套件，有 Angular Fire、Fire Base、Ionic、Ionic UI Route
 templates：存放 html 頁面檔。
 </li>
 </ol>
+</div>
 </section>
 <section>
 <h3>登入畫面</h3>
@@ -274,6 +269,24 @@ templates：存放 html 頁面檔。
 </p>
 <img src="img/room1.jpg" width="20%" style="">
 <img src="img/room2.jpg" width="20%" style="">
+</section>
+<section>
+<h3>Java Script</h3>
+<hr>
+<p class="article">
+程式部份：
+</p>
+<ol>
+<li>
+app.js：主程式，包含登入、登出、發送、讀取的函式。
+</li>
+<li>
+controllers.js：控制器，當進行連接 DOM 時執行函式，不過這裡沒做設定。
+</li>
+<li>
+routes.js：路由，編輯並定義每個頁面的位址資訊。
+</li>
+</ol>
 </section>
 </p>
 </section>
