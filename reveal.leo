@@ -43,36 +43,42 @@
 <v t="ahshoe.20161116170054.1"><vh>hr</vh></v>
 <v t="ahshoe.20161116163706.1"><vh>組員</vh></v>
 </v>
-<v t="ahshoe.20161116164356.1"><vh>目錄(#contents)</vh>
+<v t="ahshoe.20161116164356.1" a="E"><vh>目錄(#contents)</vh>
 <v t="ahshoe.20161116164356.3"><vh>h3</vh></v>
 <v t="ahshoe.20161116170302.1"><vh>hr</vh></v>
-<v t="ahshoe.20161116164442.1"><vh>ol</vh>
-<v t="ahshoe.20161116164501.1"><vh>firebase</vh></v>
-<v t="ahshoe.20161116164540.1"><vh>ionic</vh></v>
-<v t="leo.20161122150033.1"><vh>javascript</vh></v>
-<v t="roger.20170104093250.1"><vh>實體展示</vh></v>
+<v t="ahshoe.20161116164442.1" a="E"><vh>ol</vh>
+<v t="ahshoe.20161116164501.1"><vh>符號式</vh></v>
+<v t="ahshoe.20161116164540.1"><vh>圖形定義方式</vh></v>
+<v t="leo.20161122150033.1"><vh>連接方式</vh></v>
+<v t="roger.20170104093250.1"><vh>計算方式</vh></v>
 </v>
 </v>
-<v t="40323250.20151124123610.8"><vh>Vrep(#vrep)</vh>
-<v t="40323250.20151124123610.9"><vh>firebase</vh>
+<v t="40323250.20151124123610.8" a="E"><vh>Vrep(#vrep)</vh>
+<v t="40323250.20151124123610.9" a="E"><vh>firebase</vh>
 <v t="ahshoe.20161116162923.1"><vh>h3</vh></v>
 <v t="ahshoe.20161116210624.1"><vh>hr</vh></v>
 <v t="ahshoe.20161116210634.1"><vh>p</vh></v>
-<v t="544.20161120172746.1"><vh>img</vh></v>
+<v t="leo.20170427231355.1"><vh>ol</vh>
+<v t="leo.20170427231355.2"><vh>符號式</vh></v>
+<v t="leo.20170427231355.3"><vh>圖形定義方式</vh></v>
+<v t="leo.20170427231355.4"><vh>連接方式</vh></v>
+<v t="leo.20170427231355.5"><vh>計算方式</vh></v>
+<v t="leo.20170427231628.1"><vh>基本幾何</vh></v>
 </v>
-<v t="ahshoe.20161116162940.1"><vh>database</vh>
+</v>
+<v t="ahshoe.20161116162940.1" a="E"><vh>database</vh>
 <v t="ahshoe.20161116162940.2"><vh>h3</vh></v>
 <v t="ahshoe.20161116210847.1"><vh>hr</vh></v>
 <v t="leo.20161122152233.1"><vh>p</vh></v>
 <v t="544.20161120181552.1"><vh>img</vh></v>
 </v>
-<v t="544.20161120201425.1"><vh>rule</vh>
+<v t="544.20161120201425.1" a="E"><vh>rule</vh>
 <v t="544.20161120201425.2"><vh>h3</vh></v>
 <v t="544.20161120201425.3"><vh>hr</vh></v>
 <v t="544.20161120201425.4"><vh>p</vh></v>
 <v t="544.20161120201425.5"><vh>vedio</vh></v>
 </v>
-<v t="544.20161120203024.1"><vh>auth</vh>
+<v t="544.20161120203024.1" a="E"><vh>auth</vh>
 <v t="544.20161120203024.2"><vh>h3</vh></v>
 <v t="544.20161120203024.3"><vh>hr</vh></v>
 <v t="544.20161120203024.4"><vh>p</vh></v>
@@ -281,14 +287,12 @@ Summary: 導入 notebook 內容
 
 
 </t>
-<t tx="544.20161120172746.1">&lt;img src="https://1.bp.blogspot.com/-YIfQT6q8ZM4/Vzyq5z1B8HI/AAAAAAAAAAc/UmWSSMLKtKgtH7CACElUp12zXkrPK5UoACLcB/s1600/image00.png" width="55%"&gt;
-</t>
 <t tx="544.20161120181552.1">&lt;img src="http://i.imgur.com/efAXh1F.png" width="80%"&gt;
 </t>
 <t tx="544.20161120201425.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="544.20161120201425.2">&lt;h3&gt;rule&lt;/h3&gt;</t>
+<t tx="544.20161120201425.2">&lt;h3&gt;連接方式及定義&lt;/h3&gt;</t>
 <t tx="544.20161120201425.3">&lt;hr&gt;</t>
 <t tx="544.20161120201425.4">&lt;p class="article"&gt;
 
@@ -297,18 +301,20 @@ Summary: 導入 notebook 內容
 <t tx="544.20161120203024.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="544.20161120203024.2">&lt;h3&gt;auth&lt;/h3&gt;</t>
+<t tx="544.20161120203024.2">&lt;h3&gt;simuration&lt;/h3&gt;</t>
 <t tx="544.20161120203024.3">&lt;hr&gt;</t>
-<t tx="544.20161120203024.4">
+<t tx="544.20161120203024.4">&lt;p class="article"&gt;
+待完成
+&lt;/p&gt;
 
 </t>
-<t tx="ahshoe.20161116162923.1">&lt;h3&gt;firebase&lt;/h3&gt;</t>
+<t tx="ahshoe.20161116162923.1">&lt;h3&gt;符號式&lt;/h3&gt;</t>
 <t tx="ahshoe.20161116162940.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="ahshoe.20161116162940.2">&lt;h3&gt;database&lt;/h3&gt;</t>
-<t tx="ahshoe.20161116163650.1">&lt;h3&gt;Chat App&lt;/h3&gt;</t>
-<t tx="ahshoe.20161116163706.1">&lt;h4 style="font-weight:bold"&gt;40323230張元 &lt;br&gt;&lt;/br&gt;40323123林祐生&lt;/h4&gt;
+<t tx="ahshoe.20161116162940.2">&lt;h3&gt;圖形定義方式&lt;/h3&gt;</t>
+<t tx="ahshoe.20161116163650.1">&lt;h3&gt;Pylinkage&lt;/h3&gt;</t>
+<t tx="ahshoe.20161116163706.1">&lt;h4 style="font-weight:bold"&gt;40323123林祐生&lt;/h4&gt;
 
 </t>
 <t tx="ahshoe.20161116164356.1">&lt;section id="contents"&gt;
@@ -321,11 +327,11 @@ Summary: 導入 notebook 內容
 @others
 &lt;/ol&gt;</t>
 <t tx="ahshoe.20161116164501.1">&lt;li&gt;
-&lt;h4&gt;firebase&lt;/h4&gt;
+&lt;h4&gt;符號式&lt;/h4&gt;
 &lt;!-- &lt;p class="article"&gt;Vrep&lt;/p&gt; --&gt;
 &lt;/li&gt;</t>
 <t tx="ahshoe.20161116164540.1">&lt;li&gt;
-&lt;h4&gt;ionic&lt;/h4&gt;
+&lt;h4&gt;圖形定義方式&lt;/h4&gt;
 &lt;!--  &lt;p class="article"&gt;Python Solvespace&lt;/p&gt; --&gt;
 &lt;/li&gt;</t>
 <t tx="ahshoe.20161116165231.1">&lt;head&gt;
@@ -636,7 +642,7 @@ NOTEBOOK_DIR = 'notebook'
 
 </t>
 <t tx="leo.20161122150033.1">&lt;li&gt;
-&lt;h4&gt;javascript  &lt;/h4&gt;
+&lt;h4&gt;連接方式&lt;/h4&gt;
 &lt;!--  &lt;p class="article"&gt;Python Solvespace&lt;/p&gt; --&gt;
 &lt;/li&gt;</t>
 <t tx="leo.20161122152233.1">&lt;p class="article"&gt;
@@ -718,8 +724,31 @@ Javascript 是目前網頁語言的主流
 &lt;br&gt;&lt;br&gt;
 
 &lt;/p&gt;</t>
+<t tx="leo.20170427231355.1">&lt;ol&gt;
+@others
+&lt;/ol&gt;</t>
+<t tx="leo.20170427231355.2">&lt;li&gt;
+&lt;h4&gt;CFPoint(x,y)&lt;/h4&gt;
+&lt;!-- &lt;p class="article"&gt;Vrep&lt;/p&gt; --&gt;
+&lt;/li&gt;</t>
+<t tx="leo.20170427231355.3">&lt;li&gt;
+&lt;h4&gt;CFLine(CFPoint,CFPoint2)&lt;/h4&gt;
+&lt;!--  &lt;p class="article"&gt;Python Solvespace&lt;/p&gt; --&gt;
+&lt;/li&gt;</t>
+<t tx="leo.20170427231355.4">&lt;li&gt;
+&lt;h4&gt;CConecctor()&lt;/h4&gt;
+&lt;!--  &lt;p class="article"&gt;Python Solvespace&lt;/p&gt; --&gt;
+&lt;/li&gt;</t>
+<t tx="leo.20170427231355.5">&lt;li&gt;
+&lt;h4&gt;CFLink&lt;/h4&gt;
+&lt;!--  &lt;p class="article"&gt;Python Solvespace&lt;/p&gt; --&gt;
+&lt;/li&gt;</t>
+<t tx="leo.20170427231628.1">&lt;li&gt;
+&lt;h4&gt;基本幾何表示法&lt;/h4&gt;
+&lt;!--  &lt;p class="article"&gt;Python Solvespace&lt;/p&gt; --&gt;
+&lt;/li&gt;</t>
 <t tx="roger.20170104093250.1">&lt;li&gt;
-&lt;h4&gt;介面展示&lt;/h4&gt;
+&lt;h4&gt;計算方式&lt;/h4&gt;
 &lt;!--  &lt;p class="article"&gt;Python Solvespace&lt;/p&gt; --&gt;
 &lt;/li&gt;</t>
 <t tx="roger.20170104095520.1">&lt;img src="https://3.bp.blogspot.com/-lQZ6oX19ji4/VVBQS7XZ2sI/AAAAAAAAZdc/iubbjow1ZU4/s320/js.png" width="50%" style=""&gt;
@@ -770,7 +799,7 @@ Javascript 是目前網頁語言的主流
 &lt;/section&gt;</t>
 <t tx="roger.20170104095923.8">&lt;h3&gt;實體2&lt;/h3&gt;</t>
 <t tx="roger.20170104095923.9">&lt;hr&gt;</t>
-<t tx="roger.20170104101558.1">&lt;img src="http://i.imgur.com/AkkSiI4.png" width="80%"&gt;</t>
+<t tx="roger.20170104101558.1"></t>
 <t tx="roger.20170104102629.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
